@@ -1,0 +1,4 @@
+read A1
+read A2
+read B1
+Read B2
